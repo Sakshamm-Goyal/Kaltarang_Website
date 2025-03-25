@@ -22,7 +22,7 @@ const Hero = () => {
           </div>
         </div>
 
-        <p className="text-center text-xs font-drunk sm:text-sm md:text-base">
+        <p className="text-center text-3xl font-drunk ml-24  ">
           Are You Ready to Step Into the World of Pixel?
         </p>
 

@@ -3,10 +3,10 @@ import one from "../assets/Planrt photos/1.png";
 import Two from "../assets/Planrt photos/2.png";
 import Three from "../assets/Planrt photos/3.png";
 import Four from "../assets/Planrt photos/4.png";
-import Poster1 from "../assets/Poster/Poster1.jpg";
-import Poster2 from "../assets/Poster/Poster2.jpg";
-import Poster3 from "../assets/Poster/Poster3.jpg";
-import Poster4 from "../assets/Poster/Poster4.jpg";
+import Poster1 from "../assets/Poster/Group.png";
+import Poster2 from "../assets/Poster/Group7.png";
+import Poster3 from "../assets/Poster/Group8.png";
+import Poster4 from "../assets/Poster/Group9.png";
 
 function plannet() {
   const [hoveredPlanet, setHoveredPlanet] = useState(null);

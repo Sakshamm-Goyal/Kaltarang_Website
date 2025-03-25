@@ -22,11 +22,11 @@ const Highlights = () => {
           {/* Right Side - Title */}
           <div className="md:w-1/2 pl-10">
             <div className="border-t border-b border-black py-4 px-2">
-              <h3 className="text-2xl md:text-3xl font-mono tracking-wider text-center md:text-right">
+              <h3 className="text-2xl md:text-3xl font-bitend tracking-wider text-center md:text-right">
                 EXPLORE MINDSET
               </h3>
             </div>
-            <h2 className="text-4xl font-pixter md:text-5xl font-mono mt-8 leading-tight tracking-wider text-center md:text-right">
+            <h2 className="text-4xl font-pixtergranular md:text-5xl mt-8 leading-tight tracking-wider text-center md:text-right">
               HOW ABOUT WE
               <br />
               HAVE A LOOK
