@@ -12,16 +12,16 @@ const StartScreen = () => {
         transition={{ duration: 1, ease: "easeOut" }}
         className="flex items-center space-x-4"
       >
-        <p className="text-black text-6xl font-bold">IMMERSE</p>
+        <p className="text-black text-9xl font-drunk">IMMERSE</p>
         <motion.button
           onClick={() => navigate("/moon")}
-          className="w-20 h-20 flex items-center justify-center border border-black rounded-full"
+          className="w-32 h-32 flex items-center font-pixelon justify-center border-2 border-black rounded-full text-2xl font-bold"
           whileHover={{ scale: 1.2 }}
         >
           START
         </motion.button>
-        <p className="text-black text-6xl font-bold">ME IN</p>
-        <p className="text-black text-6xl font-bold">→</p>
+        <p className="text-black text-9xl font-drunk">ME IN</p>
+        <p className="text-black text-6xl font-drunk">→</p>
       </motion.div>
     </div>
   );

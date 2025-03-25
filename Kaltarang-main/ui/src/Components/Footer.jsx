@@ -25,11 +25,11 @@ const ExplorerPath = () => {
 
         {/* Main Heading */}
         <div className="text-center mb-6">
-          <h1 className="text-4xl font-pixter md:text-6xl lg:text-7xl font-bold tracking-tight leading-none mb-4 font-mono">
+          <h1 className="text-4xl font-pixtergranular md:text-6xl lg:text-7xl font-bold tracking-tight leading-none mb-4 font-mono">
             WHICH WORLD
             <br /> CALLS TO YOU?
           </h1>
-          <p className="text-xl font-pixter md:text-2xl font-mono">FIND YOUR PATH TO A NEW WORLD</p>
+          <p className="text-xl font-pixtergranular md:text-2xl font-mono">FIND YOUR PATH TO A NEW WORLD</p>
         </div>
 
         {/* Kaltarang Logo */}
@@ -45,7 +45,7 @@ const ExplorerPath = () => {
             { name: "UTSAV SHINGALA", phone: "+91 89802 01569", email: "22cs3065@rgpt.ac.in" },
           ].map((member, index) => (
             <div key={index} className="text-center">
-              <h3 className="font-mono text-lg md:text-xl font-bold">{member.name}</h3>
+              <h3 className="font-poxast text-lg md:text-xl">{member.name}</h3>
               <p className="font-mono text-sm">{member.phone}</p>
               <p className="font-mono text-sm">{member.email}</p>
             </div>
@@ -55,7 +55,7 @@ const ExplorerPath = () => {
         {/* World Image and Social Links */}
         <div className="relative mt-8 w-full flex flex-col items-center">
           <div className="text-center mb-4">
-            <h3 className="font-pixter text-lg">Follow Us</h3>
+            <h3 className="font-granular text-lg">Follow Us</h3>
             <div className="flex justify-center gap-4 mt-2">
               {[Instagram, Facebook, Linkedin, Youtube].map((Icon, index) => (
                 <a href="#" key={index} className="bg-gray-800 p-2 rounded-full">

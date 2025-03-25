@@ -116,14 +116,14 @@ function plannet() {
         </div>
 
         {/* Text Content */}
-        <div className="w-[500px] font-pixter text-right pr-8">
-          <h1 className="text-4xl font-mono text-gray-700 tracking-wider mb-4">
+        <div className="w-[500px] font-mono text-right pr-8">
+          <h1 className="text-4xl font-pixter text-gray-700 tracking-wider mb-4">
             COMPETE, CONNECT, AND
           </h1>
-          <h2 className="text-3xl font-mono text-gray-600 tracking-wide mb-6">
+          <h2 className="text-3xl font-pixter text-gray-600 tracking-wide mb-6">
             CELEBRATE YOUR TALENT IN
           </h2>
-          <h3 className="text-2xl font-mono text-gray-500 tracking-wide mb-8">
+          <h3 className="text-2xl font-pixter text-gray-500 tracking-wide mb-8">
             VIBRANT CONTESTS
           </h3>
           <button className="bg-black text-white px-8 py-3 rounded-full font-mono text-sm hover:bg-gray-800 transition-colors">

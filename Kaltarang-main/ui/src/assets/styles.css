@@ -7,7 +7,7 @@
   
   @font-face {
     font-family: "Bitend Demo";
-    src: url("../assets/fonts/Bitend-Demo.ttf") format("truetype");
+    src: url("../assets/fonts/BitendDEMO.otf") format("truetype");
     font-weight: normal;
     font-style: normal;
   }
@@ -21,7 +21,7 @@
   
   @font-face {
     font-family: "Pixter Granular";
-    src: url("../assets/fonts/Pixter-Granular.ttf") format("truetype");
+    src: url("../assets/fonts/PixterGlitchBold.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
   }
@@ -33,3 +33,23 @@
     font-style: normal;
   }
   
+  @font-face {
+    font-family: "Granular";
+    src: url("../assets/fonts/PixterGranularBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "PixterGranular";
+    src: url("../assets/fonts/PixterGranular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "pixelon";
+    src: url("../assets/fonts/Pixelon-OGALo.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
